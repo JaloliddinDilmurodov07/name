@@ -1,0 +1,25 @@
+body{
+ background-image: url(https://media.istockphoto.com/id/912299634/photo/computer-crime-concept.jpg?s=612x612&w=0&k=20&c=JOYSw69V4tr2hvnAt3HsOEbyXAoSXYulHrh8ifqqJXk=);
+ background-size: cover;
+ background-repeat: no-repeat;
+align-items: center;
+justify-content: center;
+}
+.username{
+    text-align: center;
+    color: royalblue;
+}
+.username:hover{
+    color: blue;
+}
+.btn{
+    color: rgb(203, 41, 41);
+}
+.btn:hover{
+    color: rgb(76, 212, 39);
+}
+form{
+    align-items: center;
+justify-content: center;
+min-height: 100hv;
+}
